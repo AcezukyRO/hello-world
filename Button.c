@@ -19,7 +19,8 @@ void loop() {
   Keyboard.begin();                                 // begin keyboard
   if(digitalRead(3) == LOW) {                       // if button is pushed ; Because pin 3 has been set pull high with internal resistor, so we need to check reversely, LOW instead HIGH
     Keyboard.press('z');                            // simulate "z" on keyboard
-    digitalWrite(4, HIGH);                          // light up the button (for LED Illuminated Push buttons)
+    digitalWrite(4, HIGH);                          // light up the button (for LED Illuminated Push buttons) 
+                                                    // Because - pin is connected to GND and + pin is connected to pin 4 in arduino, if pin 4 is HIGH, it will create a complete circuit and make LED shine
     delay(30);                                      // The button is very sensitive, you press once and you release, it may count as 2 time press because of "holding"
                                                     // To prevent that, we need to set the delay to pass that "holding" time
                                                     
