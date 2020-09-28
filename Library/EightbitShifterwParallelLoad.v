@@ -13,7 +13,7 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
     // Declare data type for ports
     wire [BUS_WIDTH - 1:0] data_i;
     wire select1_i, select2_i, dataR_i, dataL_i;
-    reg [BUS_WIDTH - 1:0] data_o;
+    wire [BUS_WIDTH - 1:0] data_o;
 
     // Internal wires declaration
     wire [BUS_WIDTH - 1:0] mux_o;
@@ -44,5 +44,6 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
     );
 
     // still need output Q as reg
-
+	assign data_o[BUS_WIDTH - 1:0] = mux_wire[BUS_WIDTH - 1:0];
+	
 endmodule
