@@ -13,11 +13,11 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
     // Declare data type for ports
     wire [BUS_WIDTH - 1:0] data_i;
     wire select1_i, select2_i, dataR_i, dataL_i;
-    wire [BUS_WIDTH - 1:0] data_o;
+    reg [BUS_WIDTH - 1:0] data_o;
 
     // Internal wires declaration
     wire [BUS_WIDTH - 1:0] mux_o;
-    reg [BUS_WIDTH - 1:0] data_o;
+    wire [BUS_WIDTH - 1:0] mux_wire;
 
     // Functional Description
     mux4_1 mux4_1[BUS_WIDTH - 1:0]  (
@@ -34,14 +34,15 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
         
         .select1_i(select1_i),
         .select2_i(select2_i),
-        .data_o(mux_o [BUS_WIDTH - 1:0)
+        .data_o(mux_o [BUS_WIDTH - 1:0])
     );
 
     DFlipFlop DFlipFlop[BUS_WIDTH - 1:0] (
-        .Q(data_o [BUS_WIDTH - 1:0]), mux_wire[BUS_WIDTH - 1:0]),
-        .QN(),
+        .Q(mux_wire[BUS_WIDTH - 1:0]),
         .D(mux_o [BUS_WIDTH - 1:0]),
         .clk(clk)
     );
+
+    // still need output Q as reg
 
 endmodule
