@@ -20,7 +20,7 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
     wire [BUS_WIDTH - 1:0] mux_wire;
 
     // Functional Description
-    mux4_1 mux4_1[BUS_WIDTH - 1:0]  (
+    Mux4_1 Mux4_1_inst [BUS_WIDTH - 1:0]  (
         .dataA_i(mux_wire[BUS_WIDTH - 1:0]),                // cổng 0 ở mỗi selector nối với wire mux đúng thứ tự Q của DFF
         .dataB_i(data_i [BUS_WIDTH - 1:0]),                 // cổng 1 ở mỗi selector nối với các input
         .dataC_i({
@@ -29,7 +29,7 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
         
         .dataD_i({
             dataL_i,                                        // cổng 3 của selector 3 nối với dataL_i, còn lại nối với wire mux
-            mux_wire[BUS_WIDTH - 1:0]                       // cổng 3 của các selector còn lại nối với wire mux đúng thứ tự Q của DFF
+            mux_wire[BUS_WIDTH - 1:1]                       // cổng 3 của các selector còn lại nối với wire mux đúng thứ tự Q của DFF
             }),   
         
         .select1_i(select1_i),
@@ -37,7 +37,7 @@ module EightbitShifterwParallelLoad(data_o, data_i, dataR_i, dataL_i, select1_i,
         .data_o(mux_o [BUS_WIDTH - 1:0])
     );
 
-    DFlipFlop DFlipFlop[BUS_WIDTH - 1:0] (
+    DFlipFlop DFlipFlop_inst [BUS_WIDTH - 1:0] (
         .Q(mux_wire[BUS_WIDTH - 1:0]),
         .D(mux_o [BUS_WIDTH - 1:0]),
         .clk(clk)
