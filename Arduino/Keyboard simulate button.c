@@ -4,7 +4,8 @@
  - Pro Micro
 */
 
-//My arduino: https://icdayroi.com/arduino-pro-micro
+// Schematic: https://imgur.com/kZykQ5G
+// My arduino: https://icdayroi.com/arduino-pro-micro
 
 #include <Keyboard.h>                               // built-in library, no need to install
 
