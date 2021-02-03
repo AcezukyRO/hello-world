@@ -1,0 +1,8 @@
+https://www.w3schools.com/js/
+https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+https://www.taniarascia.com/how-to-use-the-javascript-fetch-api-to-get-json-data/
+https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/
+https://www.universalclass.com/articles/computers/javascript/user-input-and-output-in-javascript.htm
+https://www.w3schools.com/js/js_input_examples.asp
+https://www.w3schools.com/js/js_output.asp
+https://www.w3schools.com/css/css_margin.asp
