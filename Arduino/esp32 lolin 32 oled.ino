@@ -1,6 +1,7 @@
 /*********
   Rui Santos
   Complete project details at https://randomnerdtutorials.com  
+  Modified by rock-on: printing "Hello rock-on!" to the OLED.
 *********/
 
 #include <Wire.h>
@@ -33,10 +34,9 @@ void setup() {
   display.setTextColor(WHITE);
   display.setCursor(0, 30);
   // Display static text
-  display.println("Thanks Lardon! :3");
+  display.println("Hello rock-on!");
   display.display(); 
 }
  
 void loop() {
-  
 }
