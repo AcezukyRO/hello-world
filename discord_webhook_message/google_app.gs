@@ -2,7 +2,7 @@ function postMessageToDiscord(message) {
 
   message = message || "hi guys";
 
-  var discordUrl = 'put your webhook URL here';
+  var discordUrl = 'ut your webhook URL here (https://discord.com/api/webhooks/...)';
   var payload = JSON.stringify({
         "username": "Webhook",
         "avatar_url": "https://i.imgur.com/4M34hi2.png",
