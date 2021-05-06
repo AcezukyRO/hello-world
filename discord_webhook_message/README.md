@@ -15,6 +15,7 @@ For google_app.gs file:
 - Select dropdown button to select function to run. Then Press run button. The message should pup up in your discord setup channel
 
 References:
+
 https://dev.to/oskarcodes/send-automated-discord-messages-through-webhooks-using-javascript-1p01
 https://stackoverflow.com/questions/59336498/send-a-message-to-discord-channels-via-google-apps-script
 https://gist.github.com/Birdie0/78ee79402a4301b1faf412ab5f1cdcf9
