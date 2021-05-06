@@ -2,13 +2,12 @@ function postMessageToDiscord(message) {
 
   message = message || "hi guys";
 
-  var discordUrl = 'ut your webhook URL here (https://discord.com/api/webhooks/...)';
+  var discordUrl = 'put your webhook URL here (https://discord.com/api/webhooks/...)';
   var payload = JSON.stringify({
         "username": "Webhook",
         "avatar_url": "https://i.imgur.com/4M34hi2.png",
         "content": "Text message. Up to 2000 characters.",
-        "embeds": [
-          {
+        "embeds": [{
             "author": {
               "name": "Birdie♫",
               "url": "https://www.reddit.com/r/cats/",
@@ -48,8 +47,7 @@ function postMessageToDiscord(message) {
               "text": "Refereed by Vespulaz • 04/05/2021",
               "icon_url": "https://i.imgur.com/fKL31aD.jpg"
             }
-          }
-        ]
+       }]
   });
 
 var params = {
