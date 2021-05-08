@@ -28,6 +28,7 @@ request.onload = function () {
     //const h1 = document.createElement('h1');
     //h1.textContent = data[0].user_id;
     //app.appendChild(h1);
+    document.getElementById("status").innerHTML = "Status: " + request.status + "\n";
     document.getElementById("User ID").innerHTML = "User ID: " + data[0].user_id + "\n";
     document.getElementById("Osu Username").innerHTML = "Osu username: " + data[0].username + "\n";
     document.getElementById("PP").innerHTML = "PP: " + data[0].pp_raw + "\n";
