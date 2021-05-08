@@ -15,7 +15,7 @@ var username = prompt("Please enter your osu name", "");
 //}
 
 let request = new XMLHttpRequest();
-let osuAPIkey = '66e4541725e87c2ef4559e7929d68b5c319719d3';
+let osuAPIkey = '';
 //let ID = '9676089';
 request.open('GET', 'https://osu.ppy.sh/api/get_user?u=' + username + '&k=' + osuAPIkey);
 request.onload = function () {
