@@ -64,6 +64,7 @@ void loop() {
   // Update the Joystick buttons only upon changes.
   // falling = high (not pressed - voltage from pullup resistor)
   //           to low (pressed - button connects pin to ground)
+  // try to swap with risingEdge() with Keyboard.release() if you get spammed X or Z 
   if (button0.fallingEdge()) {
     Keyboard.press(KEY_Z);
   }
