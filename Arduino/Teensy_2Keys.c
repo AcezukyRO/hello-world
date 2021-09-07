@@ -1,5 +1,5 @@
 /* Buttons to USB Keyboard Example
-
+   Install Teensyduino.exe from https://www.pjrc.com/teensy/td_download.html
    You must select Keyboard from the "Tools > USB Type" menu
 
    This example code is in the public domain.
