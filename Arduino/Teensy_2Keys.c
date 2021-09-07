@@ -1,6 +1,22 @@
+/* rock-on's setup:
+1. Install Teensyduino.exe from https://www.pjrc.com/teensy/td_download.html
+2. Hardware setup: 
+   Buttons only: 
+      pin B0/B1 -> button 1st pin. 
+      button 2nd pin -> GND. 
+   Modules: 
+      pin B0/B1 -> OUT pin of the module
+      GND-> GND module
+      VDD -> VDD module
+3. Plug the teensy, open arduino IDE, load this ino file and upload code. 
+Note: If you get spammed by X and Z, try swap keyboard.release() to keyboard.press() or vice versa.
+*/
+
+//--------------------------------------------------------------------------------------------------
+
 /* Buttons to USB Keyboard Example
-   Install Teensyduino.exe from https://www.pjrc.com/teensy/td_download.html
-   You must select Keyboard from the "Tools > USB Type" menu
+
+You must select Keyboard from the "Tools > USB Type" menu
 
    This example code is in the public domain.
 */
