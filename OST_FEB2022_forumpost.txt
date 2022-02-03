@@ -1,15 +1,17 @@
 [centre][img]https://media.giphy.com/media/3qhRR4hTtr578BRMSM/giphy.gif[/img]
 
-[size=150][url=https://docs.google.com/spreadsheets/d/1AL8ZxDnZV_cABjicN2Vz8OwM3quB5BrUQ46JrFzI1zA/edit?usp=sharing]Main sheet[/url] | [url=https://discord.gg/rmMy8Ya]Discord[/url] | [url=https://forms.gle/nhb3SZSbZNfTA7PPA]Player Registration[/url] | [url=https://forms.gle/YUvfu3gqFzTFDv5U7]Staff Registration[/url] | [url=https://acezukyrockon.github.io/OMT-Staff-Credits/OST_Feb_2022/]Staff Credits[/url][/size][/centre]
+[size=150][url=https://docs.google.com/spreadsheets/d/1AL8ZxDnZV_cABjicN2Vz8OwM3quB5BrUQ46JrFzI1zA/edit?usp=sharing]Main sheet[/url] | [url=https://discord.gg/rmMy8Ya]Discord[/url] | [url=https://docs.google.com/document/d/1IWStUUwhRYruQNL_TmnZJ9VqNsYRPpQIgO9jG2XgYjo/edit?usp=sharing]Rule Book[/url] | [url=https://acezukyrockon.github.io/OMT-Staff-Credits/OST_Feb_2022/]Staff Credits[/url]
+[url=https://forms.gle/nhb3SZSbZNfTA7PPA]Player Registration[/url] | [url=https://forms.gle/YUvfu3gqFzTFDv5U7]Staff Registration[/url]
+[/size][/centre]
 
 [notice]
 [centre][img]https://media.giphy.com/media/znkLSTaqFBJRFCeGKe/giphy.gif[/img][/centre]
 
 [list]
-[*] Tournament is Single Elimination with 3rd place and has format 1v1, ScoreV2, HeadToHead.
-[*] The rank range of the tournament is 300k-100k without buffers. Ranks will be checked at the day registration closes (0UTC Feb 15th), so make sure your rank at this day is between 300k-100k.
+[*] Tournament is [color=#fbb33c][b]Single Elimination with 3rd place[/b][/color] and has format [color=#fbb33c][b]1v1, ScoreV2, HeadToHead[/b][/color].
+[*] The rank range of the tournament is [color=#fbb33c][b]300k-100k without buffers[/b][/color]. Ranks will be checked at the day registration closes (0UTC Feb 15th), so make sure your rank at this day is between 300k-100k.
 [*] NoFail is required for all matches.
-[*] Players must be present in Discord throughout the tournament. Your nickname in the server must be the same as your osu username
+[*] Players must be [color=#fbb33c][b]present in Discord[/b][/color] throughout the tournament. Your nickname in the server [color=#fbb33c][b]must be the same[/b][/color] as your osu username.
 [*] All match time are in UTC+0.
 [*] Staffs are not allowed to play in the tournament.
 [/list]
@@ -18,48 +20,40 @@
 [notice][centre]
 [img]https://media.giphy.com/media/Eb3wcyuTA7Vu6q2HaX/giphy.gif[/img]
 
-Jan 30 - Feb 14 | Player Registration
-Feb 15 - Feb 17 | Screening
-Feb 19 - Feb 20 | Qualifier
-Feb 26 - Feb 27 | Round of 128
-Mar 5 - Mar 6 | Round of 64
-Mar 12 - Mar 13 | Round of 32
-Mar 19 - Mar 20 | Round of 16
-Mar 26 - Mar 27 | Quarter Final
-Apr 2 - Apr 3 | Semi Final
-Mar 9 - Mar 10 | 3rd + Final
+Jan 30 - Feb 14 | [color=#fbb33c][b]Player Registration[/b][/color]
+Feb 15 - Feb 17 | [color=#fbb33c][b]Screening[/b][/color]
+Feb 19 - Feb 20 | [color=#fbb33c][b]Qualifier[/b][/color]
+Feb 26 - Feb 27 | [color=#fbb33c][b]Round of 128[/b][/color]
+Mar 5 - Mar 6 | [color=#fbb33c][b]Round of 64[/b][/color]
+Mar 12 - Mar 13 | [color=#fbb33c][b]Round of 32[/b][/color]
+Mar 19 - Mar 20 | [color=#fbb33c][b]Round of 16[/b][/color]
+Mar 26 - Mar 27 | [color=#fbb33c][b]Quarter Final[/b][/color]
+Apr 2 - Apr 3 | [color=#fbb33c][b]Semi Final[/b][/color]
+Mar 9 - Mar 10 | [color=#fbb33c][b]3rd + Final[/b][/color]
 [/centre][/notice]
 [b][/b]
 [notice][centre]
 [img]https://media.giphy.com/media/Z4pJyA0qqXYWgN2GO3/giphy.gif[/img]
 
-4 NM | 2 HD | 2 HR | 2 DT - 1 playthrough - Qualifier
-4 NM | 2 HD | 2 HR | 2 DT - 1 Ban - Best of 7 - Round of 128
-4 NM | 2 HD | 2 HR | 2 DT - 1 Ban - Best of 7 - Round of 64
-5 NM | 2 HD | 2 HR | 2 DT - 1 Ban - Best of 9 - Round of 32
-5 NM | 2 HD | 2 HR | 3 DT - 1 Ban - Best of 9 - Round of 16
-5 NM | 3 HD | 3 HR | 4 DT - 2 Ban - Best of 11 - Quarter Final
-6 NM | 3 HD | 3 HR | 4 DT - 2 Ban - Best of 11 - Semi Final
-6 NM | 3 HD | 3 HR | 4 DT - 2 Ban - Best of 13 - Final & 3rd:  
+[color=#fbb33c]4[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] playthrough - [color=#fbb33c][b]Qualifier[/b][/color]
+[color=#fbb33c]4[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] Ban - Best of [color=#fbb33c]7[/color] - [color=#fbb33c][b]Round of 128[/b][/color]
+[color=#fbb33c]4[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] Ban - Best of [color=#fbb33c]7[/color] - [color=#fbb33c][b]Round of 64[/b][/color]
+[color=#fbb33c]5[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] Ban - Best of [color=#fbb33c]9[/color] - [color=#fbb33c][b]Round of 32[/b][/color]
+[color=#fbb33c]5[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]3[/color] DT - [color=#fbb33c]1[/color] Ban - Best of [color=#fbb33c]9[/color] - [color=#fbb33c][b]Round of 16[/b][/color]
+[color=#fbb33c]5[/color] NM | [color=#fbb33c]3[/color] HD | [color=#fbb33c]3[/color] HR | [color=#fbb33c]4[/color] DT - [color=#fbb33c]2[/color] Ban - Best of [color=#fbb33c]11[/color] - [color=#fbb33c][b]Quarter Final[/b][/color]
+[color=#fbb33c]6[/color] NM | [color=#fbb33c]3[/color] HD | [color=#fbb33c]3[/color] HR | [color=#fbb33c]4[/color] DT - [color=#fbb33c]2[/color] Ban - Best of [color=#fbb33c]11[/color] - [color=#fbb33c][b]Semi Final[/b][/color]
+[color=#fbb33c]6[/color] NM | [color=#fbb33c]3[/color] HD | [color=#fbb33c]3[/color] HR | [color=#fbb33c]4[/color] DT - [color=#fbb33c]2[/color] Ban - Best of [color=#fbb33c]13[/color] - [color=#fbb33c][b]Final & 3rd[/b][/color] 
 [/centre][/notice]
 [b][/b]
 [notice][centre]
 [img]https://media.giphy.com/media/yVP5XMdb9mBN1kXYYN/giphy.gif[/img]
 
-First Place: 4 months osu! supporter + Banner
-Second Place: 2 months osu! supporter + Banner
-Third Place: 1 month osu! supporter + Banner
-[/centre][/notice]
-[b][/b]
-[notice]
-[centre][img]https://media.giphy.com/media/yVP5XMdb9mBN1kXYYN/giphy.gif[/img][/centre]
+[color=#e69138][b]First Place[/b][/color]
+4 months osu! supporter + Banner
 
-[list]
-[*] Tournament is Single Elimination with 3rd place and has format 1v1, ScoreV2, HeadToHead.
-[*] The rank range of the tournament is 300k-100k without buffers. Ranks will be checked at the day registration closes (0UTC Feb 15th), so make sure your rank at this day is between 300k-100k.
-[*] NoFail is required for all matches.
-[*] Players must be present in Discord throughout the tournament. Your nickname in the server must be the same as your osu username
-[*] All match time are in UTC+0.
-[*] Staffs are not allowed to play in the tournament.
-[/list]
-[/notice]
+[color=#f6b26b][b]Second Place[/b][/color]
+2 months osu! supporter + Banner
+
+[color=#f9cb9c][b]Third Place[/b][/color]:
+1 month osu! supporter + Banner
+[/centre][/notice]
