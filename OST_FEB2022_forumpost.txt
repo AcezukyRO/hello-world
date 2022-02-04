@@ -5,8 +5,7 @@
 [/size][/centre]
 
 [notice]
-[centre][img]https://media.giphy.com/media/znkLSTaqFBJRFCeGKe/giphy.gif[/img][/centre]
-
+[centre][img]https://media.giphy.com/media/uRHRz43us7Axpga71f/giphy.gif[/img][/centre]
 [list]
 [*] Tournament is [color=#fbb33c][b]Single Elimination with 3rd place[/b][/color] and has format [color=#fbb33c][b]1v1, ScoreV2, HeadToHead[/b][/color].
 [*] The rank range of the tournament is [color=#fbb33c][b]300k-100k without buffers[/b][/color]. Ranks will be checked at the day registration closes (0UTC Feb 15th), so make sure your rank at this day is between 300k-100k.
@@ -18,7 +17,7 @@
 [/notice]
 [b][/b]
 [notice][centre]
-[img]https://media.giphy.com/media/Eb3wcyuTA7Vu6q2HaX/giphy.gif[/img]
+[img]https://media.giphy.com/media/Gxp9LUB4PiqIPZYM2Y/giphy.gif[/img]
 
 Jan 30 - Feb 14 | [color=#fbb33c][b]Player Registration[/b][/color]
 Feb 15 - Feb 17 | [color=#fbb33c][b]Screening[/b][/color]
@@ -33,7 +32,7 @@ Mar 9 - Mar 10 | [color=#fbb33c][b]3rd + Final[/b][/color]
 [/centre][/notice]
 [b][/b]
 [notice][centre]
-[img]https://media.giphy.com/media/Z4pJyA0qqXYWgN2GO3/giphy.gif[/img]
+[img]https://media.giphy.com/media/9CNqVGMN2vLQn08jVK/giphy.gif[/img]
 
 [color=#fbb33c]4[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] playthrough - [color=#fbb33c][b]Qualifier[/b][/color]
 [color=#fbb33c]4[/color] NM | [color=#fbb33c]2[/color] HD | [color=#fbb33c]2[/color] HR | [color=#fbb33c]2[/color] DT - [color=#fbb33c]1[/color] Ban - Best of [color=#fbb33c]7[/color] - [color=#fbb33c][b]Round of 128[/b][/color]
@@ -46,7 +45,7 @@ Mar 9 - Mar 10 | [color=#fbb33c][b]3rd + Final[/b][/color]
 [/centre][/notice]
 [b][/b]
 [notice][centre]
-[img]https://media.giphy.com/media/yVP5XMdb9mBN1kXYYN/giphy.gif[/img]
+[img]https://media.giphy.com/media/szDzIR03I3YX4U2iya/giphy.gif[/img]
 
 [color=#e69138][b]First Place[/b][/color]
 4 months osu! supporter + Banner
