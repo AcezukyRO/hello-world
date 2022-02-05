@@ -17,8 +17,8 @@ void setup() {
   // put your setup code here, to run once:
   pinMode(2,INPUT_PULLUP);
   pinMode(3,INPUT_PULLUP);
-  pinMode(6,INPUT_PULLUP);
-  pinMode(7,INPUT_PULLUP);
+  pinMode(3,INPUT_PULLUP);
+  pinMode(4,INPUT_PULLUP);
     Serial.begin(9600);                               // begin serial comms for debugging
 }
 
