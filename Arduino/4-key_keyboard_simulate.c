@@ -10,8 +10,8 @@
 // Button Pinout
 #define BT_1  2
 #define BT_2  3
-#define BT_3  6
-#define BT_4  7
+#define BT_3  4
+#define BT_4  5
 
 void setup() {
   // put your setup code here, to run once:
