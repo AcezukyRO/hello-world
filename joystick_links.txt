@@ -1,0 +1,2 @@
+Guide: https://www.youtube.com/watch?v=hoCOq9Ngp44
+Bootloader pro micro guide: https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
