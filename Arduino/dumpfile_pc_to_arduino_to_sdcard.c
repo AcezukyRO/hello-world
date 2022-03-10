@@ -10,6 +10,7 @@ Hardware prepare:
 - Arduino UNO R3 SMD (any UNO works): https://icdayroi.com/arduino-uno-r3-smd 
 - Module Micro SD Card: https://icdayroi.com/micro-sd-card-module-tf-spi
 Wiring: https://hackster.imgix.net/uploads/attachments/930853/ds3231-sd-card-module-circuit_1rirM4OoVj.jpg?auto=compress%2Cformat&w=680&h=510&fit=max
+Wiring imgur: https://i.imgur.com/kXUJqsi.jpg
 
 1. Install Tera Term: https://osdn.net/projects/ttssh2/releases/
 2. Make new arduino sketch and copy these code to your sketch
