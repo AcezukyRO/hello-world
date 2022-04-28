@@ -1,0 +1,11 @@
+Mednafen: https://forums.raspberrypi.com/viewtopic.php?t=218205
+Change sound to HDMI: http://forum.attractmode.org/index.php?topic=159.0
+
+Steps:
+1. Install Mednafen: sudo apt-get install mednafen
+2. At home directory, cd .mednafen. There will be mednafen.cfg here
+3. Replace mednafen.cfg with the one in this same github folder
+4. Run the game by typing: mednafen <rom file name>
+5. To config input/controller, open a game, then press Alt+Shift+1 (press F1 to view more command), then setup the buttons
+6. Save state: F5, Load state: F7
+7. Sav folder: /home/pi/.mednafen/sav
