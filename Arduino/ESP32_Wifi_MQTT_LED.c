@@ -5,9 +5,16 @@
 #define LED1 13
 
 /* 
+Step 1: Hardware Setup
 LED -> ESP32:
 - VCC -> pin 13
 - GND -> GND
+Step 2: Setup wifi ssid and password (your wifi name and password)
+Step 3: Go to http://www.hivemq.com/demos/websocket-client/, setup Username and Password, then fill at MQTT_USER and MQTT_PASSWORD
+Step 4: Upload the code to ESP32 using Arduino IDE (remember set port and board). Hold boot button when reaching at "..." part.
+Step 5: Back to Websocket site, click Connect, then on Publish, replace topic with "MQTT_ESP32/LED1". Do same on Subcribe area.
+Step 6: On Publish area, type "ON" and click Publish button, your LED should be flash and the Subcribe should says message "ON"
+Step 7: Try with "OFF" to turn off led. Done
 */
 
 String ledStatus1 = "OFF";
