@@ -1,0 +1,2 @@
+References:
+- https://community.appinventor.mit.edu/t/why-cant-i-close-my-app/1407
