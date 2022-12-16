@@ -9,6 +9,7 @@
 
   Library required: https://github.com/DeqingSun/ch55xduino
   Source: https://github.com/betaEncoder/ch55xduino/tree/ch55xduino/ch55xduino/ch55x/libraries/Generic_Examples/examples/05.USB
+  
 */
 
 //For windows user, if you ever played with other HID device with the same PID C55D
@@ -21,7 +22,7 @@
 
 #include "src/userUsbHidKeyboard/USBHIDKeyboard.h"
 
-#define BUTTON1_PIN 14
+#define BUTTON1_PIN 14 // I use Pyrometer to check which CH522 pín connect to which switch pin
 #define BUTTON2_PIN 15
 #define BUTTON3_PIN 32
 
