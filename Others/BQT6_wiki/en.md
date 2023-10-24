@@ -340,17 +340,20 @@ Sunday, 8 October 2023:
 11. Only BQT Refs, Streamers, and Casters are allowed to play in the tournament, but they are referees, they can't ref their own match.
 12. 6 Digit badged players are ALLOWED to participate.
 13. Team Supporter!
+
    - **Pros:**
 
      - ONE Team Supporter per team is allowed to join warmups during matches.
      - Get notified when your team matches are happening and/or stream!
      - Being a team player and giving helpful knowledge to provide them a good experience in the tournament scene.
+
    - **Cons:**
 
      - Can’t be one of following roles: admin, referee, mappool team, and player.
      - At any point in time, the team captain can remove you as a Team Supporter.
+
    - **Other Helpful Information:**
-   
+
      - Any rank is allowed to be a Team Supporter!
      - No incentive! Just wanting to give back to the osu! Community! You're like a coach or guidance for their tournament experience!
      - If we know you're being offensive, aggressive, and rude to your and others teams, you'll get 2 warnings and the last one would be a ban from the server. Positive Vibes Only!
